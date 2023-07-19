@@ -1,0 +1,22 @@
+info: Server is listening on port 8089
+info: Server is listening on port 8089
+info: Server is listening on port 8089
+info: Server is listening on port 8089
+info: Authorization,Basic Og==,Content-Type,application/json; charset=utf-8,Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8089
+info: User-Agent,PostmanRuntime/7.32.3,Accept,*/*,Postman-Token,cd3de0fd-826d-412f-91fe-e34d3f4fbebf,Host,localhost:8089,Accept-Encoding,gzip, deflate, br,Connection,keep-alive
+info: Server is listening on port 8089
+info: Authorization,Basic Og==,Content-Type,application/json; charset=utf-8,Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8089
+2023-06-27T02:21:10.986Z-info: Server is listening on port 8089
+2023-06-27T02:21:28.122Z-info: Authorization,Basic Og==,Content-Type,application/json; charset=utf-8,Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8089
+2023-06-27T02:22:15.155Z-info: Authorization,Basic Og==,Content-Type,application/json; charset=utf-8,Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8089
+2023-06-27T02:22:51.413Z-info: Server is listening on port 8089
+2023-06-27T02:23:10.646Z-info: User-Agent,PostmanRuntime/7.32.3,Accept,*/*,Postman-Token,d27229a5-3fef-4b47-b511-e34bcfb88d9f,Host,localhost:8089,Accept-Encoding,gzip, deflate, br,Connection,keep-alive
+2023-06-27T02:24:20.026Z-info: Server is listening on port 8089
+2023-06-27T02:24:37.316Z-info: Authorization,Basic Og==,Content-Type,application/json; charset=utf-8,Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8089
+2023-06-27T03:24:41.455Z-info: Server is listening on port 8089
+2023-06-27T22:45:49.308Z-info: Server is listening on port 8089
+2023-06-27T22:51:15.295Z-info: Server is listening on port 8089
+2023-06-27T22:51:24.880Z-info: Authorization,Basic Og==,Content-Type,application/json; charset=utf-8,Accept,*/*,User-Agent,node-fetch/1.0 (+https://github.com/bitinn/node-fetch),Accept-Encoding,gzip,deflate,Connection,close,Host,localhost:8089
+2023-06-27T23:05:02.139Z-info: Host,localhost:8089,Connection,keep-alive,sec-ch-ua,"Not.A/Brand";v="8", "Chromium";v="114", "Brave";v="114",sec-ch-ua-mobile,?0,sec-ch-ua-platform,"Windows",Upgrade-Insecure-Requests,1,User-Agent,Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36,Accept,text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,Sec-GPC,1,Accept-Language,es-419,es,Sec-Fetch-Site,none,Sec-Fetch-Mode,navigate,Sec-Fetch-User,?1,Sec-Fetch-Dest,document,Accept-Encoding,gzip, deflate, br
+2023-06-28T00:24:56.344Z-info: Server is listening on port 8089
+2023-06-28T00:30:40.818Z-info: Server is listening on port 8089
